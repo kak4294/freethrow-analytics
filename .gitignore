@@ -8,4 +8,5 @@ freethrow_env
 # Python cache
 __pycache__/
 
+# Jupyter notebooks
 notebooks/.ipynb_checkpoints/
